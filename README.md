@@ -9,10 +9,8 @@
 ## JavaScript for-loop eksempel
 
 ```javascript
-const navne = ["Anna", "Mikkel", "Sofie"];
-
-for (let i = 0; i < navne.length; i++) {
-  console.log(navne[i]);
+for (let i = 0; i < 5; i++) {
+  console.log(i);
 }
 ```
 
