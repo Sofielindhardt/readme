@@ -26,12 +26,12 @@ for (let i = 0; i < navne.length; i++) {
 </nav>
 ```
 
-
 ## Billede
 
-![AI-genereret Mona Lisa](https://images.unsplash.com/photo-1518998053901-5348d3961a04?q=80&w=1200&auto=format&fit=crop)
+![Mona Lisa](https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg)
 
-Billedet er en moderne kunstnerisk fortolkning inspireret af Mona Lisa og renæssancekunst.
+Billedet viser Mona Lisa, malet af Leonardo da Vinci omkring år 1503–1506. 
+Det er et af verdens mest kendte kunstværker.
 
 ## Citat
 
