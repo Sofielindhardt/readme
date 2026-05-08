@@ -28,7 +28,7 @@ for (let i = 0; i < navne.length; i++) {
 
 ## Billede
 
-![Mona Lisa](https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg)
+![Mona Lisa](https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg)
 
 Billedet viser Mona Lisa, malet af Leonardo da Vinci omkring år 1503–1506. 
 Det er et af verdens mest kendte kunstværker.
