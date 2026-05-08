@@ -29,7 +29,7 @@ for (let i = 0; i < navne.length; i++) {
 
 ## Billede
 
-![Mona Lisa](https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg)
+![Mona Lisa](https://en.wikipedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg)
 
 Billedet viser Mona Lisa malet af :contentReference[oaicite:0]{index=0}. 
 Maleriet er et af verdens mest kendte kunstværker og hænger på :contentReference[oaicite:1]{index=1}. :contentReference[oaicite:2]{index=2}
