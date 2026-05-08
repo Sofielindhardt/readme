@@ -1,12 +1,14 @@
 # Markdown Dokumentation
 
+## Opgave B
+
 - Markdown er nemt at skrive og læse.
 - Det kræver ikke avanceret software.
 - Det kan bruges til dokumentation på GitHub.
 - Det gør tekst mere struktureret med overskrifter, lister og kodeblokke.
 - Det kan nemt konverteres til HTML.
 
-## JavaScript for-loop eksempel
+## Opgave C
 
 ```javascript
 for (let i = 0; i < 5; i++) {
@@ -14,7 +16,7 @@ for (let i = 0; i < 5; i++) {
 }
 ```
 
-## HTML navigation med 3 links
+## Opgave D
 
 ```html
 <nav>
@@ -24,14 +26,14 @@ for (let i = 0; i < 5; i++) {
 </nav>
 ```
 
-## Billede
+## Opgave E
 
 ![Mona Lisa](https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg)
 
 Billedet viser Mona Lisa, malet af Leonardo da Vinci omkring år 1503–1506. 
 Det er et af verdens mest kendte kunstværker.
 
-## Citat
+## Opgave F
 
 > "Simplicity is the ultimate sophistication."  
 > — Leonardo da Vinci
