@@ -29,10 +29,9 @@ for (let i = 0; i < navne.length; i++) {
 
 ## Billede
 
-![Mona Lisa](https://en.wikipedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg)
+![AI-genereret Mona Lisa](https://images.unsplash.com/photo-1518998053901-5348d3961a04?q=80&w=1200&auto=format&fit=crop)
 
-Billedet viser Mona Lisa malet af :contentReference[oaicite:0]{index=0}. 
-Maleriet er et af verdens mest kendte kunstværker og hænger på :contentReference[oaicite:1]{index=1}. :contentReference[oaicite:2]{index=2}
+Billedet er en moderne kunstnerisk fortolkning inspireret af Mona Lisa og renæssancekunst.
 
 ## Citat
 
