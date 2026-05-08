@@ -28,7 +28,7 @@ for (let i = 0; i < navne.length; i++) {
 
 ## Billede
 
-![Eksempel på Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+![Eksempel på Markdown]https://da.wikipedia.org/wiki/Mona_Lisa)
 
 Billedet viser Markdown-logoet, som repræsenterer Markdown som et simpelt markeringssprog til at formatere tekst.
 
