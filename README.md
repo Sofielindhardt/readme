@@ -26,11 +26,12 @@ for (let i = 0; i < navne.length; i++) {
 </nav>
 ```
 
+
 ## Billede
 
-![Eksempel på Markdown] https://da.wikipedia.org/wiki/Fil:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg)
+![Mona Lisa](https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg)
 
-Billedet viser Markdown-logoet, som repræsenterer Markdown som et simpelt markeringssprog til at formatere tekst.
+Billedet viser Mona Lisa malet af :contentReference[oaicite:0]{index=0}. Maleriet er et af verdens mest kendte kunstværker og hænger på Louvre-museet i Paris. :contentReference[oaicite:1]{index=1}
 
 ## Citat
 
